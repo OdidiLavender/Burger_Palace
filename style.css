@@ -66,7 +66,38 @@ span {
 
 
 }
+.burgersplash
+{
+    height: 25%;
+    width: 25%;
+    margin-left: 32%;
+    margin-top: 3%;
+}
+.homepage{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.firstparagraph{
+    margin-left: 3rem;
 
+}
+.description{
+    color: lightslategrey;
+    font-size: 100%;
+}
+.button{
+    color:#ffff;
+    background-color: #F6B400;
+    border: none;
+    border-bottom-left-radius: 30px; 
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px; 
+    height: 3rem;
+    width: 10rem;
+}
 
 
 
