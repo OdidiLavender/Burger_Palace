@@ -327,6 +327,82 @@ span {
     font-size: 10px;
     font-family: 'Poppins', sans-serif;
 }
+.Doubledecker{
+    height: 25%;
+    width: 20%;
+    margin-left: 20%;
+    margin-top: 3%;
+   
+}
+.parag{
+    margin-left: -150%;
+    margin-top: -10%;
+    
+  
+}
+.deckerparagraph{
+    font-family: 'Poppins', sans-serif;
+    margin-right: 70%;
+   
+  
+}
+.deckerburger2{
+    height: 25%;
+    width: 30rem;
+    margin-left: 150%;
+    margin-top: -120%;
+  
+
+}
+.deckerburger1{
+    height: 25%;
+    width: 20rem;
+    margin-left: 145%;
+    margin-top: -220%;
+    
+  
+}
+.decker{
+    color: #F6B400;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+   
+  
+}
+.descriptiondecker{
+    font-size: 75%;
+    font-family:'Poppins', sans-serif ;
+    color: gray;
+   
+
+}
+.dots{
+    margin-top: 10%;
+    gap: 10%;
+    padding-left: 10%;
+    ;
+  
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(221, 209, 209);
+    margin-top: 20%;
+    border-radius: 50%;
+    display: inline-block;
+    
+  
+}
+.double{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    border: none;
+
+}
+
+
 
     
 
