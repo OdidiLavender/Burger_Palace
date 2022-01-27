@@ -6,14 +6,14 @@ It contains basic features that a basic website has with great color and partern
 
 ## Table of contents
 * [Project Name](#Burger_Place)
-* [Author]
+* [Author] ()
 * [Description_of_Project]()
 * [Project setup instructions](#technologies)
 * [How it Works](#instructions)
 * [Contact information](#contacts)
 
 ## Project Name
- Burger_Place
+ Burger_Palace
 
 
 ## Authors
